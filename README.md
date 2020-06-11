@@ -1,5 +1,3 @@
-# Mei-Wu-Projects
-
 # Logistic Regression Analysis of the Default of Credit Card Clients Dataset Using Sklearn
 
 Data downloaded from <https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients>
