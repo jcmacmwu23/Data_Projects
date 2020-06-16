@@ -3,7 +3,7 @@
 Data downloaded from <https://archive.ics.uci.edu/ml/datasets/MSNBC.com+Anonymous+Web+Data>
 
 Introduction:
-I worked in the Xbox Division at Microsoft for three years. Xbox in essence is a big web browser in a box, so I am experienced in  organizing and analyzing web data. Historically, MSNBC news network was established as a partnership of NBC and Microsoft, and this data was collected by Microsoft Research Division in 1999. It was originally used for clustering analysis and was not presented in the format of modern web data. I enjoyed the unique challenge to organize it to unearth multiple KPIs. During the course of development, I also realized that this data can be visualized in weighted networks.
+I worked in the Xbox Division at Microsoft for three years. Xbox in essence is a fancy web browser in a box, so I am experienced in  organizing and analyzing web data. Historically, MSNBC news network was established as a partnership of NBC and Microsoft, and this data was collected by Microsoft Research Division in 1999. It was originally used for clustering analysis and was not presented in the format of modern web data. I enjoyed the unique challenge to organize it to unearth multiple KPIs. During the course of development, I also realized that this data can be visualized in weighted networks.
 
 Procedures:
 I have implemented two Jupyter notebooks for this project:
